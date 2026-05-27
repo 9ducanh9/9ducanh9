@@ -34,18 +34,6 @@
 
 🏗️ My long-term direction is Cloud Solution Architecture: designing systems that are practical, scalable, and aligned with real business needs.
 
-🌱 Still learning and building.
-
-```txt
-current_mode = {
-  direction: "Cloud Solution Architecture",
-  cloud: "AWS engineering, deployment, architecture patterns",
-  backend: "FastAPI, PostgreSQL, SQLAlchemy",
-  analysis: "requirements, workflows, business logic",
-  ai: "context design, automation, human-in-the-loop workflows"
-}
-```
-
 ---
 
 ## 🧰 Toolbox
@@ -137,17 +125,5 @@ The goal is to build systems that can keep growing.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=9ducanh9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BE9D6&icon_color=A7F3D0&text_color=C9D1D9" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ducanh9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BE9D6&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
----
-
-## 📨 Contact
-
-I am open to conversations around cloud, backend systems, AI-native workflows, and thoughtful product engineering.
-
-<div align="center">
-
-[Portfolio](https://portfolio.logantai.com) · [GitHub](https://github.com/9ducanh9)
 
 </div>
