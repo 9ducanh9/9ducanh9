@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="assets/toolbox-icons.svg" width="760" alt="Python, FastAPI, PostgreSQL, React, TypeScript, Tailwind, Docker, AWS, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,tailwind,docker,aws,git,github&theme=dark" alt="Tech stack icons" />
 
 </div>
 
