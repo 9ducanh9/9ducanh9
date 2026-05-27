@@ -4,9 +4,9 @@
 
 # Lam Chi Tai (Logan)
 
-### Friendly AI-native system builder
+### Friendly AI-native system builder, growing toward Cloud Solution Architecture
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=720&lines=Growing+systems+carefully.;Building+AI-native+systems+with+curiosity.;Context+quality+%3E+context+quantity.;Cloud+%2B+backend+%2B+business+workflows." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=760&lines=Business+workflows+%E2%86%92+backend+systems+%E2%86%92+cloud+architecture.;Growing+toward+Cloud+Solution+Architecture.;Context+quality+%3E+context+quantity.;Building+AI-native+systems+with+curiosity." alt="Typing SVG" />
 
 ## 🌱 Still building and growing ☁️
 
@@ -24,13 +24,27 @@
 
 ## ☁️ About me
 
-🎒 I'm an IT student exploring cloud-native systems, backend, and AI workflows.
+🎒 I'm an Information Systems student exploring the space between business workflows, backend systems, and cloud architecture.
 
-☁️ Lately, I've been focusing on how real systems are built, from APIs and databases to deployment and business logic.
+☁️ Through the FCAJ AWS Bootcamp, I'm growing deeper into AWS Cloud Engineering and learning how real systems are designed, deployed, and scaled.
+
+🧭 My Business Analysis foundation helps me think about requirements, processes, data flows, and business logic before jumping into code.
 
 ⚙️ I'm really into system design, especially structure, boundaries, and how systems scale over time.
 
-🛠️ I learn mostly by building projects, breaking things, and fixing them. That's how I understand how systems actually work beyond tutorials.
+🏗️ My long-term direction is Cloud Solution Architecture: designing systems that are practical, scalable, and aligned with real business needs.
+
+🌱 Still learning and building.
+
+```txt
+current_mode = {
+  direction: "Cloud Solution Architecture",
+  cloud: "AWS engineering, deployment, architecture patterns",
+  backend: "FastAPI, PostgreSQL, SQLAlchemy",
+  analysis: "requirements, workflows, business logic",
+  ai: "context design, automation, human-in-the-loop workflows"
+}
+```
 
 ---
 
@@ -47,6 +61,7 @@
 | Backend | FastAPI · SQLAlchemy · PostgreSQL · REST APIs · auth · business logic |
 | Frontend | React · TypeScript · Tailwind · clean operational UI |
 | Cloud | AWS · Docker · deployment workflows · GitHub Actions |
+| System analysis | requirements · process modeling · data flows · technical documentation |
 | AI workflow | prompt systems · context engineering · AI-assisted planning |
 
 ---
