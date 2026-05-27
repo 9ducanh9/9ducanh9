@@ -7,7 +7,12 @@
 Growing systems carefully.  
 Building backend, cloud, and AI-ready workflows with curiosity.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3200&pause=900&color=8BE9D6&center=true&vCenter=true&width=560&lines=Backend+architecture+with+business+context;Cloud+systems%2C+built+one+careful+layer+at+a+time;Context+quality+%3E+context+quantity;AI-native+workflows+for+real+systems" alt="Typing SVG" />
+```txt
+Backend architecture with business context
+Cloud systems, one careful layer at a time
+Context quality > context quantity
+AI-native workflows for real systems
+```
 
 </div>
 
@@ -79,18 +84,20 @@ product/        building software around real business needs
 
 ---
 
-## System map
+## System map ☁️
 
-```mermaid
-flowchart TD
-    A["Business problem"] --> B["Domain model"]
-    B --> C["Backend API"]
-    C --> D["Database design"]
-    C --> E["Frontend workflow"]
-    D --> F["Operational insight"]
-    E --> F
-    F --> G["AI-ready workflow"]
-    G --> H["Better decisions"]
+```txt
+business problem
+      ↓
+domain model
+      ↓
+backend API ──→ frontend workflow
+      ↓                 ↓
+database design ──→ operational insight
+                         ↓
+                  AI-ready workflow
+                         ↓
+                  better decisions
 ```
 
 ---
@@ -105,18 +112,6 @@ Small decisions matter: naming, data flow, failure states, documentation, and th
 
 The goal is not to build louder software.  
 The goal is to build systems that can keep growing.
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=9ducanh9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BE9D6&icon_color=A7F3D0&text_color=C9D1D9" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ducanh9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BE9D6&text_color=C9D1D9" alt="Top languages" />
-
-</div>
 
 ---
 
