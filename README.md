@@ -54,6 +54,7 @@ BA foundation → backend systems → cloud-native architecture → Solution Arc
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,tailwind,docker,aws,git,github&theme=dark" alt="Tech stack icons" />
 
+
 </div>
 
 | Layer | Tools I reach for |
