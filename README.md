@@ -38,11 +38,9 @@
 
 ## 🧰 Toolbox
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,tailwind,docker,aws,git,github&theme=dark" alt="Tech stack icons" />
-
-</div>
+```txt
+Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind · Docker · AWS · Git
+```
 
 | Layer | Tools I reach for |
 | --- | --- |
