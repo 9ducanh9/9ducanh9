@@ -24,9 +24,15 @@
 
 ## ☁️ About me
 
-I build software like a small system garden: calm surfaces, clear boundaries, and room to grow.
+🎒 I'm an IT student exploring cloud-native systems, backend, and AI workflows.
 
-Right now, I am learning cloud and backend architecture through real business workflows instead of toy-only features. I care about data models, service boundaries, API behavior, deployment paths, and how AI can support better system thinking.
+☁️ Lately, I've been focusing on how real systems are built, from APIs and databases to deployment and business logic.
+
+⚙️ I'm really into system design, especially structure, boundaries, and how systems scale over time.
+
+🛠️ I learn mostly by building projects, breaking things, and fixing them. That's how I understand how systems actually work beyond tutorials.
+
+🌱 Still learning and building.
 
 ```txt
 current_mode = {
