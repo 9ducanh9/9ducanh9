@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=720&lines=Growing+systems+carefully.;Building+AI-native+systems+with+curiosity.;Context+quality+%3E+context+quantity.;Cloud+%2B+backend+%2B+business+workflows." alt="Typing SVG" />
 
-## 🌱 Vẫn trong quá trình xây dựng và phát triển ☁️
+## 🌱 Still building and growing ☁️
 
 <sub>Profile, projects, and systems are being refined one careful layer at a time.</sub>
 
