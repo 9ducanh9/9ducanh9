@@ -36,6 +36,18 @@
 
 ---
 
+## 🧭 Direction
+
+Business Analysis gave me the habit of understanding workflows before building.
+
+AWS is helping me turn that thinking into cloud architecture: systems that start from real requirements, then grow through backend services, databases, deployment, and scalability.
+
+```txt
+BA foundation → backend systems → cloud-native architecture → Solution Architect
+```
+
+---
+
 ## 🧰 Toolbox
 
 <div align="center">
@@ -69,6 +81,10 @@
         user roles, and backend workflows that can grow into larger business systems.
       </p>
       <p>
+        It started from business workflow analysis, then grew into database design,
+        API structure, role-based operations, and AI-assisted implementation.
+      </p>
+      <p>
         <strong>Stack:</strong> FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind · Docker · AWS
       </p>
     </td>
@@ -82,9 +98,22 @@
 
 - Backend-first system thinking
 - Real business workflow modeling
+- 31-table relational database design
+- 29 application workflows / pages
+- Catalog, inventory, order, payment, and user-role flows
+- FEFO-based inventory tracking
+- RBAC authorization and MoMo QR payment integration
 - Database-driven architecture
 - API design for operational tools
 - A foundation for future AI-assisted business features
+
+---
+
+## 🧩 System practice
+
+### Distributed University Database System
+
+A database design practice project focused on distributed data architecture: fragmentation strategies, regional data distribution, SQL Server Linked Server, and documenting how data flows across multiple sites.
 
 ---
 
@@ -110,7 +139,7 @@ product/        building software around real business needs
 
 > Context quality > context quantity.
 
-I like systems that are understandable, maintainable, and useful before they become impressive.
+I like starting from business context first, then shaping the system around data, boundaries, and deployment reality.
 
 Small decisions matter: naming, data flow, failure states, documentation, and the way a feature maps back to the real problem.
 
