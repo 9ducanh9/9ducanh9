@@ -8,6 +8,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=720&lines=Growing+systems+carefully.;Building+AI-native+systems+with+curiosity.;Context+quality+%3E+context+quantity.;Cloud+%2B+backend+%2B+business+workflows." alt="Typing SVG" />
 
+## 🌱 Vẫn trong quá trình xây dựng và phát triển ☁️
+
+<sub>Profile, projects, and systems are being refined one careful layer at a time.</sub>
+
 <p>
   <img src="https://img.shields.io/badge/AWS%20Cloud-learning-161B22?style=for-the-badge&logo=amazonaws&logoColor=8BE9D6&labelColor=0D1117&color=A7F3D0" alt="AWS Cloud" />
   <img src="https://img.shields.io/badge/Backend-architecture-161B22?style=for-the-badge&logo=fastapi&logoColor=8BE9D6&labelColor=0D1117&color=8BE9D6" alt="Backend Architecture" />
