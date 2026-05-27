@@ -38,9 +38,11 @@
 
 ## 🧰 Toolbox
 
-```txt
-Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind · Docker · AWS · Git
-```
+<div align="center">
+
+<img src="assets/toolbox-icons.svg" width="760" alt="Python, FastAPI, PostgreSQL, React, TypeScript, Tailwind, Docker, AWS, Git, GitHub" />
+
+</div>
 
 | Layer | Tools I reach for |
 | --- | --- |
