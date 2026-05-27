@@ -1,0 +1,57 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .grid { stroke: #1f2937; stroke-width: 1; opacity: .45; }
+    .line { font: 600 22px 'JetBrains Mono', Consolas, monospace; fill: #d7fff2; }
+    .soft { font: 500 16px 'JetBrains Mono', Consolas, monospace; fill: #9fb7c4; }
+    .accent { fill: #8be9d6; }
+    .leaf { fill: #a7f3d0; }
+    .cloud { fill: #dffdf4; opacity: .92; }
+    .float { animation: float 5s ease-in-out infinite; }
+    .float2 { animation: float 6.5s ease-in-out infinite; }
+    .blink { animation: blink 1.1s steps(2, start) infinite; }
+    .dash { stroke-dasharray: 7 10; animation: dash 18s linear infinite; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    @keyframes dash {
+      to { stroke-dashoffset: -220; }
+    }
+  </style>
+
+  <rect width="1200" height="320" rx="26" fill="#0d1117"/>
+  <path d="M0 94H1200M0 188H1200M0 282H1200M116 0V320M260 0V320M404 0V320M548 0V320M692 0V320M836 0V320M980 0V320M1124 0V320" class="grid"/>
+  <rect x="50" y="44" width="1100" height="232" rx="20" fill="#111827" stroke="#2f3b46"/>
+  <circle cx="82" cy="76" r="8" fill="#ff6b6b"/>
+  <circle cx="108" cy="76" r="8" fill="#ffd166"/>
+  <circle cx="134" cy="76" r="8" fill="#8be9d6"/>
+
+  <g class="float">
+    <ellipse cx="944" cy="90" rx="42" ry="25" class="cloud"/>
+    <circle cx="912" cy="88" r="22" class="cloud"/>
+    <circle cx="950" cy="64" r="25" class="cloud"/>
+    <circle cx="984" cy="87" r="23" class="cloud"/>
+  </g>
+  <g class="float2">
+    <ellipse cx="1020" cy="222" rx="54" ry="30" class="cloud"/>
+    <circle cx="982" cy="218" r="27" class="cloud"/>
+    <circle cx="1022" cy="188" r="31" class="cloud"/>
+    <circle cx="1064" cy="218" r="28" class="cloud"/>
+  </g>
+
+  <path d="M176 232C220 166 280 164 326 204C378 250 452 226 488 170C524 116 596 104 650 150C704 196 746 186 790 134" stroke="#8be9d6" stroke-width="3" class="dash"/>
+
+  <text x="92" y="126" class="soft">$ logan --mode</text>
+  <text x="92" y="164" class="line">friendly AI-native system builder<span class="blink">_</span></text>
+  <text x="92" y="210" class="soft">cloud / backend / systems / growth / AI workflows</text>
+
+  <g transform="translate(790 162)">
+    <circle cx="0" cy="0" r="36" fill="#17212b" stroke="#8be9d6" stroke-width="2"/>
+    <path d="M-7 18C-17 3-11-14 6-22C17-5 12 12-7 18Z" class="leaf"/>
+    <path d="M-7 18C-2 6 2-6 6-22" stroke="#0d1117" stroke-width="2"/>
+    <path d="M20 -6L32 -6M26 -12V0M-36 0H-24M-30 -6V6" stroke="#8be9d6" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg width="460" height="300" viewBox="0 0 460 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: 600 18px 'JetBrains Mono', Consolas, monospace; fill: #d7fff2; }
+    .small { font: 500 13px 'JetBrains Mono', Consolas, monospace; fill: #aab7c4; }
+    .pulse { animation: pulse 2.6s ease-in-out infinite; transform-origin: center; }
+    .move { stroke-dasharray: 6 8; animation: dash 12s linear infinite; }
+    @keyframes pulse {
+      0%, 100% { opacity: .75; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.04); }
+    }
+    @keyframes dash {
+      to { stroke-dashoffset: -160; }
+    }
+  </style>
+  <rect width="460" height="300" rx="22" fill="#0d1117"/>
+  <rect x="24" y="24" width="412" height="252" rx="18" fill="#111827" stroke="#2f3b46"/>
+  <text x="44" y="62" class="label">Leaf Creme</text>
+  <text x="44" y="88" class="small">business logic + backend architecture</text>
+
+  <path d="M108 150H228H350" stroke="#8be9d6" stroke-width="3" class="move"/>
+  <path d="M228 150V220" stroke="#a7f3d0" stroke-width="3" class="move"/>
+
+  <g class="pulse">
+    <circle cx="108" cy="150" r="34" fill="#162635" stroke="#8be9d6" stroke-width="2"/>
+    <text x="83" y="155" class="small">API</text>
+  </g>
+  <g class="pulse">
+    <circle cx="228" cy="150" r="38" fill="#162635" stroke="#a7f3d0" stroke-width="2"/>
+    <text x="198" y="155" class="small">DOMAIN</text>
+  </g>
+  <g class="pulse">
+    <circle cx="350" cy="150" r="34" fill="#162635" stroke="#8be9d6" stroke-width="2"/>
+    <text x="326" y="155" class="small">DATA</text>
+  </g>
+  <g class="pulse">
+    <circle cx="228" cy="220" r="32" fill="#162635" stroke="#b7f7cc" stroke-width="2"/>
+    <text x="209" y="225" class="small">AI</text>
+  </g>
+
+  <text x="62" y="264" class="small">FastAPI · PostgreSQL · Docker · AWS</text>
+</svg>
