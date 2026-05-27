@@ -4,11 +4,11 @@
 
 # Lam Chi Tai (Logan)
 
-### Friendly AI-native system builder, growing toward Cloud Solution Architecture
+### 💻 IT student exploring cloud-native systems and AI workflows 💻
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=760&lines=Business+workflows+%E2%86%92+backend+systems+%E2%86%92+cloud+architecture.;Growing+toward+Cloud+Solution+Architecture.;Context+quality+%3E+context+quantity.;Building+AI-native+systems+with+curiosity." alt="Typing SVG" />
 
-## 🌱 Still building and growing ☁️
+## 🧠 Still building and growing 🚀
 
 <sub>Profile, projects, and systems are being refined one careful layer at a time.</sub>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## ☁️ About me
+## (っ◔◡◔)っ About me
 
 🎒 I'm an Information Systems student exploring the space between business workflows, backend systems, and cloud architecture.
 
@@ -40,10 +40,10 @@
 
 Business Analysis gave me the habit of understanding workflows before building.
 
-AWS is helping me turn that thinking into cloud architecture: systems that start from real requirements, then grow through backend services, databases, deployment, and scalability.
+AWS is helping me turn that thinking into cloud architecture: systems that start with real requirements and grow through backend services, databases, deployment, and scalability.
 
 ```txt
-BA foundation → backend systems → cloud-native architecture → Solution Architect
+Full-stack systems → BA foundation → Cloud-native architecture → Solution Architect
 ```
 
 ---
@@ -51,9 +51,7 @@ BA foundation → backend systems → cloud-native architecture → Solution Arc
 ## 🧰 Toolbox
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,tailwind,docker,aws,git,github&theme=dark" alt="Tech stack icons" />
-
 
 </div>
 
@@ -86,7 +84,7 @@ BA foundation → backend systems → cloud-native architecture → Solution Arc
         API structure, role-based operations, and AI-assisted implementation.
       </p>
       <p>
-        <strong>Stack:</strong> FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind · Docker · AWS
+        <strong>Stack:</strong> FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind · Docker
       </p>
     </td>
     <td width="38%">
@@ -146,14 +144,5 @@ Small decisions matter: naming, data flow, failure states, documentation, and th
 
 The goal is not to build louder software.  
 The goal is to build systems that can keep growing.
-
----
-
-## 📊 GitHub garden
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=9ducanh9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BE9D6&icon_color=A7F3D0&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ducanh9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8BE9D6&text_color=C9D1D9" alt="Top languages" />
 
 </div>
