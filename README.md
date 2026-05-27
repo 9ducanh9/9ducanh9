@@ -32,18 +32,6 @@
 
 🛠️ I learn mostly by building projects, breaking things, and fixing them. That's how I understand how systems actually work beyond tutorials.
 
-🌱 Still learning and building.
-
-```txt
-current_mode = {
-  cloud: "AWS engineering",
-  backend: "FastAPI, PostgreSQL, SQLAlchemy",
-  systems: "scalability, reliability, boundaries",
-  ai: "context design, automation, human-in-the-loop workflows",
-  product: "business-oriented systems"
-}
-```
-
 ---
 
 ## 🧰 Toolbox
