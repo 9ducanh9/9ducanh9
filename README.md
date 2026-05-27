@@ -99,7 +99,7 @@ BA foundation → backend systems → cloud-native architecture → Solution Arc
 - Backend-first system thinking
 - Real business workflow modeling
 - 31-table relational database design
-- 29 application workflows / pages
+- 29 application workflows/pages
 - Catalog, inventory, order, payment, and user-role flows
 - FEFO-based inventory tracking
 - RBAC authorization and MoMo QR payment integration
@@ -139,7 +139,7 @@ product/        building software around real business needs
 
 > Context quality > context quantity.
 
-I like starting from business context first, then shaping the system around data, boundaries, and deployment reality.
+I like starting from the business context first, then shaping the system around data, boundaries, and deployment reality.
 
 Small decisions matter: naming, data flow, failure states, documentation, and the way a feature maps back to the real problem.
 
