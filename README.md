@@ -2,7 +2,7 @@
 
 <img src="assets/cloud-terminal.svg" width="100%" alt="Animated cozy cloud terminal banner" />
 
-# Logan Lam
+# Lam Chi Tai (Logan)
 
 ### Friendly AI-native system builder
 
