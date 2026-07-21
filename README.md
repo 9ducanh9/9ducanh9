@@ -1,6 +1,6 @@
 <div align="center">
 
-# (づ｡◕‿‿◕｡)づ  Lâm Chí Tài · Logan
+# Tai Lam · Logan
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=760&lines=Business+workflows+%E2%86%92+backend+systems+%E2%86%92+cloud+architecture.;Growing+toward+Cloud+Solution+Architecture.;Context+quality+%3E+context+quantity." alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 
 ---
 
-## (っ◔◡◔)っ  whoami
+## (っ◔◡◔)っ About me
 
 🎒 Information Systems student turning **business workflows → backend systems → cloud architecture**.
 ☁️ Deep in the **FCAJ AWS Bootcamp**, learning how real systems get designed, deployed, and scaled.
@@ -25,7 +25,7 @@
 
 ---
 
-## ✦  what i'm building right now
+## ✦  What I'm building right now
 
 **🌩️ [LiveCap](https://github.com/9ducanh9/livecap)** — `live in production`
 Real-time Vietnamese ⇄ English meeting captions + translation on AWS. Audio streaming over WebSocket, bilingual transcription, transcript export, cost-aware ECS Fargate infra.
@@ -37,7 +37,7 @@ Bakery commerce + operations backend built around perishable inventory. 31-table
 
 ---
 
-## 🧰  stack i reach for
+## 🧰  Stack I reach for
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,tailwind,docker,aws,git,github&theme=dark" alt="Tech stack" />
