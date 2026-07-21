@@ -1,15 +1,16 @@
 <div align="center">
 
-# (づ｡◕‿‿◕｡)づ  Lâm Chí Tài · Logan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:15564d&height=210&section=header&text=L%C3%A2m%20Ch%C3%AD%20T%C3%A0i%20%C2%B7%20Logan&fontColor=8BE9D6&fontSize=44&fontAlignY=40&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20AI-native%20systems&descSize=17&descColor=A7F3D0&descAlignY=60" width="100%" alt="banner" />
+
+# (づ｡◕‿‿◕｡)づ  hi, i'm Logan
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=760&lines=Business+workflows+%E2%86%92+backend+systems+%E2%86%92+cloud+architecture.;Growing+toward+Cloud+Solution+Architecture.;Context+quality+%3E+context+quantity." alt="Typing SVG" />
 
 <p align="center">
-<a href="https://portfolio.logantai.com/" title="Portfolio"><img src="https://api.iconify.design/mdi/web.svg?color=%238BE9D6&width=32&height=32" alt="Portfolio" /></a>
-&nbsp;&nbsp;&nbsp;
+<!-- Portfolio (coming soon) — <a href="https://portfolio.logantai.com/" title="Portfolio"><img src="https://api.iconify.design/mdi/web.svg?color=%238BE9D6&width=32&height=32" alt="Portfolio" /></a> &nbsp;&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/lamchitai" title="LinkedIn"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%238BE9D6&width=32&height=32" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:lct@logantai.com" title="Email"><img src="https://api.iconify.design/mdi/email.svg?color=%23A7F3D0&width=32&height=32" alt="Email" /></a>
+<a href="mailto:lamchitai2300@gmail.com" title="Email"><img src="https://api.iconify.design/mdi/email.svg?color=%23A7F3D0&width=32&height=32" alt="Email" /></a>
 </p>
 
 </div>
