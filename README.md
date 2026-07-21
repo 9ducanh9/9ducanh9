@@ -1,4 +1,6 @@
-# TAI LAM (Logan)
+<div align="center">
+  
+  # TAI LAM (Logan)
 
 ### 💻 IT student exploring cloud-native systems and AI workflows 💻
 
