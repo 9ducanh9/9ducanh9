@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/cloud-terminal.svg" width="100%" alt="Animated cozy cloud terminal banner" />
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=9ducanh9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8BE9D6&icon_color=A7F3D0&text_color=C9D1D9&count_private=true" width="49%" alt="Logan's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=9ducanh9&layout=compact&hide_border=true&bg_color=0D1117&title_color=8BE9D6&text_color=C9D1D9" width="42%" alt="Top Languages" />
+</p>
 
 # Lam Chi Tai (Logan)
 
