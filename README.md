@@ -5,11 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8BE9D6&center=true&vCenter=true&width=760&lines=Business+workflows+%E2%86%92+backend+systems+%E2%86%92+cloud+architecture.;Growing+toward+Cloud+Solution+Architecture.;Context+quality+%3E+context+quantity." alt="Typing SVG" />
 
 <p align="center">
-<a href="https://portfolio.logantai.com/" title="Portfolio"><img src="https://cdn.simpleicons.org/vercel/8BE9D6" width="30" height="30" alt="Portfolio" /></a>
+<a href="https://portfolio.logantai.com/" title="Portfolio"><img src="https://api.iconify.design/mdi/web.svg?color=%238BE9D6&width=32&height=32" alt="Portfolio" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lamchitai" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/8BE9D6" width="30" height="30" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/lamchitai" title="LinkedIn"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%238BE9D6&width=32&height=32" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:lct@logantai.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/A7F3D0" width="30" height="30" alt="Email" /></a>
+<a href="mailto:lct@logantai.com" title="Email"><img src="https://api.iconify.design/mdi/email.svg?color=%23A7F3D0&width=32&height=32" alt="Email" /></a>
 </p>
 
 </div>
