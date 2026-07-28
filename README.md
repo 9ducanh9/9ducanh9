@@ -11,9 +11,9 @@
 <sub>Profile, projects, and systems are being refined one careful layer at a time.</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/AWS%20Cloud-learning-161B22?style=for-the-badge&logo=amazonaws&logoColor=8BE9D6&labelColor=0D1117&color=A7F3D0" alt="AWS Cloud" />
-  <img src="https://img.shields.io/badge/Backend-architecture-161B22?style=for-the-badge&logo=fastapi&logoColor=8BE9D6&labelColor=0D1117&color=8BE9D6" alt="Backend Architecture" />
-  <img src="https://img.shields.io/badge/AI--native-workflows-161B22?style=for-the-badge&logo=openai&logoColor=A7F3D0&labelColor=0D1117&color=B7F7CC" alt="AI-native workflows" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-learning-161B22?style=flat-square&logo=amazonaws&logoColor=8BE9D6&labelColor=0D1117&color=A7F3D0" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/Backend-architecture-161B22?style=flat-square&logo=fastapi&logoColor=8BE9D6&labelColor=0D1117&color=8BE9D6" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/AI--native-workflows-161B22?style=flat-square&logo=openai&logoColor=A7F3D0&labelColor=0D1117&color=B7F7CC" alt="AI-native workflows" />
 </p>
 
 </div>
