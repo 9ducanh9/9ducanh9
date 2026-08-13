@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/AI--native-workflows-161B22?style=flat-square&logo=openai&logoColor=A7F3D0&labelColor=0D1117&color=B7F7CC" alt="AI-native workflows" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9ducanh9/9ducanh9/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9ducanh9/9ducanh9/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/9ducanh9/9ducanh9/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
