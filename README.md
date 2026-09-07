@@ -1,6 +1,6 @@
 <div align="center">
   
-  # TAI LAM (Logan)
+  # TAI LAM (Aurel)
 
 ### 💻 IT student exploring cloud-native systems and AI workflows 💻
 
@@ -30,7 +30,7 @@
 
 🎒 I'm an Information Systems student exploring the space between business workflows, backend systems, and cloud architecture.
 
-☁️ Through the FCAJ AWS Bootcamp, I'm growing deeper into AWS Cloud Engineering and learning how real systems are designed, deployed, and scaled.
+☁️ I'm growing deeper into AWS Cloud Engineering and learning how real systems are designed, deployed, and scaled.
 
 🧭 My Business Analysis foundation helps me think about requirements, processes, data flows, and business logic before jumping into code.
 
