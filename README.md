@@ -120,24 +120,6 @@ A database design practice project focused on distributed data architecture: fra
 
 ---
 
-## 🧭 Current learning
-
-```txt
-cloud/          AWS fundamentals, deployment, architecture patterns
-backend/        API design, auth, database modeling, service boundaries
-systems/        scalability, reliability, distributed-system basics
-ai-workflows/   context design, automation, AI-assisted engineering
-product/        building software around real business needs
-```
-
----
-
-## ⚙️ System map
-
-<img src="assets/system-map.svg" width="100%" alt="System thinking map" />
-
----
-
 ## 🪴 Philosophy
 
 > Context quality > context quantity.
